@@ -7,7 +7,7 @@ Check out [inlinegrid.com](http://inlinegrid.com) for documentation and examples
 ## usage
 
 ```bash`
-bower install inlinegrid
+bower install inline-grid.css
 ```
 
 ```html`
